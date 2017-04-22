@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speak To Learn English</string>
+    <string name="tap_on_mic">Tap on the mic to speak</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="word_not_found">Sorry, we can\'t find your word!</string>
+</resources>
